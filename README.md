@@ -46,12 +46,10 @@ Open JDK 11
 
 ## Pruebas de aceptación
 
-### Jugabilidad
+### juego.feature
 
 ![image](https://user-images.githubusercontent.com/55674843/170314796-9f15c3b3-9e5c-4f93-8bc7-0158d98044e7.png)
 
 ![image](https://user-images.githubusercontent.com/55674843/170314879-e5c3b76e-89b8-4c26-8565-c864a09d499d.png)
-
-
 
 
